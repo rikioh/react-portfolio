@@ -6,7 +6,7 @@ function Contact() {
     <div className="card " style={{width: '100%'}}>
     <div className="card-body">
       <h1 className="card-title">Contacts:</h1>
-      <hr className="my-4" />   {/*the line separater*/}
+      <hr className="my-4" />
       <div className="contact-info grey">
         <h3><strong>Rikio Campbell</strong></h3>
         <p>Seattle, WA</p>
